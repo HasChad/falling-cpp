@@ -1,6 +1,6 @@
 # Falling-Cpp
 
-Falling sand game made with C++ using Raylib
+Very basic falling sand game made with C++ using Raylib
 
 **How to build:**
 You should have cmake installed on your system
