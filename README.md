@@ -8,6 +8,7 @@ You should have cmake installed on your system
 ```sh
 # Clone repo
 git clone https://github.com/HasChad/falling-cpp
+cd falling-cpp
 
 # Create a build directory
 mkdir build
